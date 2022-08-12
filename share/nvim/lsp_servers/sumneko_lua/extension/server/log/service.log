@@ -1,9 +1,9 @@
-[09:36:08.385][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
-[09:36:08.385][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
-[09:36:08.385][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
-[09:36:08.385][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
-[09:36:08.385][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.4.2
-[09:36:08.443][info] [#0:script/service/service.lua:141]: 
+[14:28:56.197][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[14:28:56.197][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[14:28:56.197][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
+[14:28:56.197][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
+[14:28:56.197][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.4.2
+[14:28:56.245][info] [#0:script/service/service.lua:141]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 1.519 MB
@@ -25,7 +25,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[09:36:08.554][info] [#0:script/language.lua:137]: VSC language: nil
-[09:36:08.554][info] [#0:script/language.lua:138]: LS  language: en-us
-[09:36:08.554][info] [#0:script/workspace/workspace.lua:39]: Workspace init root: 	file:///home/ren/.config
-[09:36:08.554][info] [#0:script/workspace/workspace.lua:43]: Log path: 	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log/file_home_ren_.config.log
+[14:28:56.357][info] [#0:script/language.lua:137]: VSC language: nil
+[14:28:56.357][info] [#0:script/language.lua:138]: LS  language: en-us
+[14:28:56.357][info] [#0:script/workspace/workspace.lua:39]: Workspace init root: 	file:///home/ren/.config
+[14:28:56.358][info] [#0:script/workspace/workspace.lua:43]: Log path: 	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log/file_home_ren_.config.log

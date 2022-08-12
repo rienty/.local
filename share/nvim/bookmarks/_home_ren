@@ -1,0 +1,24 @@
+require("bookmarks.list").load{
+	line = 137,
+    id = 'f3c949409c1b25cd80f463f4a2a27111',
+    updated_at = 1660004831,
+    fre = 1,
+    filename = '/home/ren/.config/nvim/init.lua',
+    description = 'config bookmark',
+}
+require("bookmarks.list").load{
+	line = 153,
+    id = 'fc2c0f7b8739974bdf3ce6cb99287e6b',
+    updated_at = 1659879499,
+    fre = 1,
+    filename = '/home/ren/.config/nvim/init.lua',
+    description = 'add someconfig',
+}
+require("bookmarks.list").load{
+	line = 270,
+    id = 'ce570edff01af734945fc28941c402f2',
+    updated_at = 1659879289,
+    fre = 1,
+    filename = '/home/ren/research/phd-paper.tex',
+    description = 'proof tubular neighborhood',
+}

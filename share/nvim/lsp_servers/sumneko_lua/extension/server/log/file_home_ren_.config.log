@@ -1,9 +1,9 @@
-[09:36:08.385][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
-[09:36:08.385][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
-[09:36:08.385][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
-[09:36:08.385][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
-[09:36:08.385][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.4.2
-[09:36:08.443][info] [#0:script/service/service.lua:141]: 
+[14:28:56.197][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[14:28:56.197][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[14:28:56.197][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
+[14:28:56.197][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
+[14:28:56.197][info] [#0:/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.4.2
+[14:28:56.245][info] [#0:script/service/service.lua:141]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 1.519 MB
@@ -25,13 +25,13 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[09:36:08.554][info] [#0:script/language.lua:137]: VSC language: nil
-[09:36:08.554][info] [#0:script/language.lua:138]: LS  language: en-us
-[09:36:08.554][info] [#0:script/workspace/workspace.lua:39]: Workspace init root: 	file:///home/ren/.config
-[09:36:08.554][info] [#0:script/workspace/workspace.lua:43]: Log path: 	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log/file_home_ren_.config.log
-[09:36:08.555][info] [#0:script/workspace/workspace.lua:49]: Workspace create: 	file:///home/ren/.config
-[09:36:08.659][info] [#0:script/provider/provider.lua:40]: Load config from client	file:///home/ren/.config
-[09:36:08.660][info] [#0:script/provider/provider.lua:41]: {
+[14:28:56.357][info] [#0:script/language.lua:137]: VSC language: nil
+[14:28:56.357][info] [#0:script/language.lua:138]: LS  language: en-us
+[14:28:56.357][info] [#0:script/workspace/workspace.lua:39]: Workspace init root: 	file:///home/ren/.config
+[14:28:56.358][info] [#0:script/workspace/workspace.lua:43]: Log path: 	/home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log/file_home_ren_.config.log
+[14:28:56.358][info] [#0:script/workspace/workspace.lua:49]: Workspace create: 	file:///home/ren/.config
+[14:28:56.465][info] [#0:script/provider/provider.lua:40]: Load config from client	file:///home/ren/.config
+[14:28:56.466][info] [#0:script/provider/provider.lua:41]: {
   Lua = {
     diagnostics = {
       globals = { "vim" }
@@ -43,12 +43,12 @@
       enable = false
     },
     workspace = {
-      library = { "/home/ren/.config/nvim", "/etc/xdg/nvim", "/home/ren/.local/share/nvim/site", "/home/ren/.local/share/nvim/site/pack/packer/start/LuaSnip", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip", "/home/ren/.local/share/nvim/site/pack/packer/start/friendly-snippets", "/home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/gruvbox.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/hop.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/lualine.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-autopairs", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lspconfig", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-treesitter", "/home/ren/.local/share/nvim/site/pack/packer/start/packer.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/plenary.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim", "/usr/share/nvim/runtime", "/usr/lib/nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after", "/usr/share/vim/vimfiles" }
+      library = { "/home/ren/.config/nvim", "/etc/xdg/nvim", "/home/ren/.local/share/nvim/site", "/home/ren/.local/share/nvim/site/pack/packer/start/LuaSnip", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip", "/home/ren/.local/share/nvim/site/pack/packer/start/friendly-snippets", "/home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/gruvbox.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/hop.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/lualine.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-autopairs", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lspconfig", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-treesitter", "/home/ren/.local/share/nvim/site/pack/packer/start/packer.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/plenary.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/vim-bookmarks", "/usr/share/nvim/runtime", "/usr/lib/nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after", "/usr/share/vim/vimfiles" }
     }
   }
 }
-[09:36:08.660][info] [#0:script/provider/provider.lua:40]: Load config from client	file:///home/ren/.config
-[09:36:08.663][info] [#0:script/provider/provider.lua:41]: {
+[14:28:56.467][info] [#0:script/provider/provider.lua:40]: Load config from client	file:///home/ren/.config
+[14:28:56.471][info] [#0:script/provider/provider.lua:41]: {
   Lua = {
     diagnostics = {
       globals = { "vim" }
@@ -60,12 +60,12 @@
       enable = false
     },
     workspace = {
-      library = { "/home/ren/.config/nvim", "/etc/xdg/nvim", "/home/ren/.local/share/nvim/site", "/home/ren/.local/share/nvim/site/pack/packer/start/LuaSnip", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip", "/home/ren/.local/share/nvim/site/pack/packer/start/friendly-snippets", "/home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/gruvbox.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/hop.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/lualine.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-autopairs", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lspconfig", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-treesitter", "/home/ren/.local/share/nvim/site/pack/packer/start/packer.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/plenary.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim", "/usr/share/nvim/runtime", "/usr/lib/nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after", "/usr/share/vim/vimfiles" }
+      library = { "/home/ren/.config/nvim", "/etc/xdg/nvim", "/home/ren/.local/share/nvim/site", "/home/ren/.local/share/nvim/site/pack/packer/start/LuaSnip", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip", "/home/ren/.local/share/nvim/site/pack/packer/start/friendly-snippets", "/home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/gruvbox.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/hop.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/lualine.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-autopairs", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lspconfig", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-treesitter", "/home/ren/.local/share/nvim/site/pack/packer/start/packer.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/plenary.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/vim-bookmarks", "/usr/share/nvim/runtime", "/usr/lib/nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after", "/usr/share/vim/vimfiles" }
     }
   }
 }
-[09:36:08.664][info] [#0:script/provider/provider.lua:55]: Load config from client	fallback
-[09:36:08.664][info] [#0:script/provider/provider.lua:56]: {
+[14:28:56.471][info] [#0:script/provider/provider.lua:55]: Load config from client	fallback
+[14:28:56.472][info] [#0:script/provider/provider.lua:56]: {
   Lua = {
     diagnostics = {
       globals = { "vim" }
@@ -77,16 +77,16 @@
       enable = false
     },
     workspace = {
-      library = { "/home/ren/.config/nvim", "/etc/xdg/nvim", "/home/ren/.local/share/nvim/site", "/home/ren/.local/share/nvim/site/pack/packer/start/LuaSnip", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip", "/home/ren/.local/share/nvim/site/pack/packer/start/friendly-snippets", "/home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/gruvbox.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/hop.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/lualine.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-autopairs", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lspconfig", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-treesitter", "/home/ren/.local/share/nvim/site/pack/packer/start/packer.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/plenary.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim", "/usr/share/nvim/runtime", "/usr/lib/nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after", "/usr/share/vim/vimfiles" }
+      library = { "/home/ren/.config/nvim", "/etc/xdg/nvim", "/home/ren/.local/share/nvim/site", "/home/ren/.local/share/nvim/site/pack/packer/start/LuaSnip", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip", "/home/ren/.local/share/nvim/site/pack/packer/start/friendly-snippets", "/home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/gruvbox.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/hop.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/lualine.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-autopairs", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lspconfig", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-treesitter", "/home/ren/.local/share/nvim/site/pack/packer/start/packer.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/plenary.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/vim-bookmarks", "/usr/share/nvim/runtime", "/usr/lib/nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after", "/usr/share/vim/vimfiles" }
     }
   }
 }
-[09:36:08.664][info] [#0:script/library.lua:207]: Init builtin library at:	nil
-[09:36:08.688][info] [#0:script/library.lua:207]: Init builtin library at:	file:///home/ren/.config
-[09:36:08.714][info] [#0:script/plugin.lua:80]: plugin path:	nil
-[09:36:08.714][info] [#0:script/plugin.lua:80]: plugin path:	nil
-[09:36:08.714][info] [#0:script/provider/provider.lua:55]: Load config from client	fallback
-[09:36:08.714][info] [#0:script/provider/provider.lua:56]: {
+[14:28:56.473][info] [#0:script/library.lua:207]: Init builtin library at:	nil
+[14:28:56.503][info] [#0:script/library.lua:207]: Init builtin library at:	file:///home/ren/.config
+[14:28:56.529][info] [#0:script/plugin.lua:80]: plugin path:	nil
+[14:28:56.530][info] [#0:script/plugin.lua:80]: plugin path:	nil
+[14:28:56.530][info] [#0:script/provider/provider.lua:55]: Load config from client	fallback
+[14:28:56.530][info] [#0:script/provider/provider.lua:56]: {
   Lua = {
     diagnostics = {
       globals = { "vim" }
@@ -98,111 +98,304 @@
       enable = false
     },
     workspace = {
-      library = { "/home/ren/.config/nvim", "/etc/xdg/nvim", "/home/ren/.local/share/nvim/site", "/home/ren/.local/share/nvim/site/pack/packer/start/LuaSnip", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip", "/home/ren/.local/share/nvim/site/pack/packer/start/friendly-snippets", "/home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/gruvbox.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/hop.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/lualine.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-autopairs", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lspconfig", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-treesitter", "/home/ren/.local/share/nvim/site/pack/packer/start/packer.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/plenary.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim", "/usr/share/nvim/runtime", "/usr/lib/nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after", "/usr/share/vim/vimfiles" }
+      library = { "/home/ren/.config/nvim", "/etc/xdg/nvim", "/home/ren/.local/share/nvim/site", "/home/ren/.local/share/nvim/site/pack/packer/start/LuaSnip", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip", "/home/ren/.local/share/nvim/site/pack/packer/start/friendly-snippets", "/home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/gruvbox.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/hop.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/lualine.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-autopairs", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-lspconfig", "/home/ren/.local/share/nvim/site/pack/packer/start/nvim-treesitter", "/home/ren/.local/share/nvim/site/pack/packer/start/packer.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/plenary.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/vim-bookmarks", "/usr/share/nvim/runtime", "/usr/lib/nvim", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp-path/after", "/home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after", "/usr/share/vim/vimfiles" }
     }
   }
 }
-[09:36:08.715][info] [#0:script/workspace/workspace.lua:285]: Preload start:	file:///home/ren/.config
-[09:36:08.726][info] [#0:script/workspace/workspace.lua:291]: Scan files at:	file:///home/ren/.config
-[09:36:08.727][info] [#0:script/workspace/workspace.lua:285]: Preload start:	<fallback>
-[09:36:08.740][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/friendly-snippets
-[09:36:08.783][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/share/vim/vimfiles
-[09:36:08.785][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp
-[09:36:08.795][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-treesitter
-[09:36:08.927][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after
-[09:36:08.927][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-path/after
-[09:36:08.928][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/share/nvim/runtime
-[09:36:09.013][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/friendly-snippets
-[09:36:09.038][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/share/vim/vimfiles
-[09:36:09.039][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp
-[09:36:09.047][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-treesitter
-[09:36:09.166][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after
-[09:36:09.166][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-path/after
-[09:36:09.167][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/share/nvim/runtime
-[09:36:09.173][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/lualine.nvim
-[09:36:09.199][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-lspconfig
-[09:36:09.232][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.config/nvim
-[09:36:09.233][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua
-[09:36:09.238][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer/after
-[09:36:09.238][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/lib/nvim
-[09:36:09.238][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim
-[09:36:09.256][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp
-[09:36:09.269][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim
-[09:36:09.288][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after
-[09:36:09.288][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim
-[09:36:09.296][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/LuaJIT%20en-us%20utf8
-[09:36:09.298][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after
-[09:36:09.298][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-autopairs
-[09:36:09.311][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer
-[09:36:09.318][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/hop.nvim
-[09:36:09.325][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim
-[09:36:09.333][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///etc/xdg/nvim
-[09:36:09.333][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua/after
-[09:36:09.334][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site
-[09:36:09.420][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/lualine.nvim
-[09:36:09.450][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-lspconfig
-[09:36:09.512][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.config/nvim
-[09:36:09.514][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua
-[09:36:09.521][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer/after
-[09:36:09.521][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/lib/nvim
-[09:36:09.521][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim
-[09:36:09.552][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp
-[09:36:09.571][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim
-[09:36:09.621][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after
-[09:36:09.622][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim
-[09:36:09.639][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/LuaJIT%20en-us%20utf8
-[09:36:09.642][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after
-[09:36:09.643][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-autopairs
-[09:36:09.663][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer
-[09:36:09.672][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/hop.nvim
-[09:36:09.682][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim
-[09:36:09.691][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///etc/xdg/nvim
-[09:36:09.691][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua/after
-[09:36:09.691][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site
-[09:36:09.983][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/LuaSnip
-[09:36:10.011][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip
-[09:36:10.028][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer
-[09:36:10.141][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/plenary.nvim
-[09:36:10.178][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/packer.nvim
-[09:36:10.192][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-path
-[09:36:10.199][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/gruvbox.nvim
-[09:36:10.209][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline
-[09:36:10.293][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/LuaSnip
-[09:36:10.307][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip
-[09:36:10.312][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer
-[09:36:10.367][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/plenary.nvim
-[09:36:10.384][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/packer.nvim
-[09:36:10.390][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-path
-[09:36:10.395][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/gruvbox.nvim
-[09:36:10.399][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline
-[09:36:10.403][info] [#0:script/workspace/workspace.lua:327]: Found 2169 files at:	<fallback>
-[09:36:10.403][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	<fallback>
-[09:36:10.403][info] [#0:script/workspace/workspace.lua:327]: Found 2171 files at:	file:///home/ren/.config
-[09:36:10.403][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/ren/.config
-[09:36:12.101][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [1.877] sec: <fallback>
-[09:36:12.101][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: <fallback>
-[09:36:12.101][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	<fallback>
-[09:36:12.101][info] [#0:script/workspace/workspace.lua:329]: Preload finish at:	<fallback>
-[09:36:12.101][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [1.877] sec: file:///home/ren/.config
-[09:36:12.101][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/ren/.config
-[09:36:12.101][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/ren/.config
-[09:36:12.101][info] [#0:script/workspace/workspace.lua:329]: Preload finish at:	file:///home/ren/.config
-[09:36:13.864][warn] [#0:script/files.lua:511]: Compile [file:///home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim/lua/telescope/actions/init.lua] takes [0.127] sec, size [46.764] kb.
-[09:36:14.856][warn] [#0:script/files.lua:511]: Compile [file:///home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim/lua/gitsigns/git.lua] takes [0.149] sec, size [11.672] kb.
-[09:36:15.274][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/ren/.config], files count:[1102]
-[09:36:15.274][warn] [#0:script/await.lua:195]: [fire]Await step takes [3.139] sec.
+[14:28:56.531][info] [#0:script/workspace/workspace.lua:285]: Preload start:	file:///home/ren/.config
+[14:28:56.541][info] [#0:script/workspace/workspace.lua:291]: Scan files at:	file:///home/ren/.config
+[14:28:56.542][info] [#0:script/workspace/workspace.lua:285]: Preload start:	<fallback>
+[14:28:56.551][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/friendly-snippets
+[14:28:56.592][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/share/vim/vimfiles
+[14:28:56.593][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/vim-bookmarks
+[14:28:56.609][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp
+[14:28:56.623][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-treesitter
+[14:28:56.750][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after
+[14:28:56.750][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-path/after
+[14:28:56.751][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/share/nvim/runtime
+[14:28:56.844][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/friendly-snippets
+[14:28:56.864][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/share/vim/vimfiles
+[14:28:56.866][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/vim-bookmarks
+[14:28:56.876][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp
+[14:28:56.890][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-treesitter
+[14:28:57.019][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after
+[14:28:57.019][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-path/after
+[14:28:57.019][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/share/nvim/runtime
+[14:28:57.031][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/lualine.nvim
+[14:28:57.069][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-lspconfig
+[14:28:57.110][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.config/nvim
+[14:28:57.111][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua
+[14:28:57.118][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer/after
+[14:28:57.118][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/lib/nvim
+[14:28:57.118][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim
+[14:28:57.151][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp
+[14:28:57.217][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-autopairs
+[14:28:57.251][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after
+[14:28:57.252][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim
+[14:28:57.273][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/LuaJIT%20en-us%20utf8
+[14:28:57.276][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after
+[14:28:57.277][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim
+[14:28:57.325][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer
+[14:28:57.334][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/hop.nvim
+[14:28:57.349][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim
+[14:28:57.375][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///etc/xdg/nvim
+[14:28:57.376][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua/after
+[14:28:57.376][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site
+[14:28:57.425][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/lualine.nvim
+[14:28:57.477][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-lspconfig
+[14:28:57.535][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.config/nvim
+[14:28:57.535][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua
+[14:28:57.553][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer/after
+[14:28:57.554][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///usr/lib/nvim
+[14:28:57.555][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/telescope.nvim
+[14:28:57.594][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp
+[14:28:57.634][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-autopairs
+[14:28:57.671][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after
+[14:28:57.671][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim
+[14:28:57.692][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/LuaJIT%20en-us%20utf8
+[14:28:57.695][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after
+[14:28:57.696][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/gitsigns.nvim
+[14:28:57.741][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-buffer
+[14:28:57.750][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/hop.nvim
+[14:28:57.768][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim
+[14:28:57.789][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///etc/xdg/nvim
+[14:28:57.789][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-nvim-lua/after
+[14:28:57.789][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site
+[14:28:58.242][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/LuaSnip
+[14:28:58.271][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip
+[14:28:58.278][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer
+[14:28:58.347][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/plenary.nvim
+[14:28:58.379][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/packer.nvim
+[14:28:58.429][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-path
+[14:28:58.446][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/gruvbox.nvim
+[14:28:58.462][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline
+[14:28:58.549][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/LuaSnip
+[14:28:58.564][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp_luasnip
+[14:28:58.569][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer
+[14:28:58.631][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/plenary.nvim
+[14:28:58.654][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/packer.nvim
+[14:28:58.676][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-path
+[14:28:58.689][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/gruvbox.nvim
+[14:28:58.697][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/ren/.local/share/nvim/site/pack/packer/start/cmp-cmdline
+[14:28:58.704][info] [#0:script/workspace/workspace.lua:327]: Found 2189 files at:	<fallback>
+[14:28:58.704][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	<fallback>
+[14:28:58.704][info] [#0:script/workspace/workspace.lua:327]: Found 2191 files at:	file:///home/ren/.config
+[14:28:58.704][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/ren/.config
+[14:29:00.248][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [1.741] sec: <fallback>
+[14:29:00.248][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: <fallback>
+[14:29:00.250][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	<fallback>
+[14:29:00.250][info] [#0:script/workspace/workspace.lua:329]: Preload finish at:	<fallback>
+[14:29:00.250][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [1.741] sec: file:///home/ren/.config
+[14:29:00.250][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/ren/.config
+[14:29:00.250][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/ren/.config
+[14:29:00.250][info] [#0:script/workspace/workspace.lua:329]: Preload finish at:	file:///home/ren/.config
+[14:29:02.286][warn] [#0:script/files.lua:522]: Parse LuaDoc of [file:///home/ren/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/view/docs_view.lua] takes [0.104] sec, size [3.770] kb.
+[14:29:03.318][warn] [#0:script/files.lua:511]: Compile [file:///usr/share/nvim/runtime/lua/vim/lsp/sync.lua] takes [0.161] sec, size [15.894] kb.
+[14:29:03.492][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/ren/.config], files count:[1112]
+[14:29:03.492][warn] [#0:script/await.lua:195]: [fire]Await step takes [3.236] sec.
 stack traceback:
-[09:36:15.274][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
-[09:36:15.325][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
-[09:36:15.328][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [<fallback>], files count:[1102]
-[09:36:15.332][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/ren/.config], files count:[1102]
-[09:36:15.336][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/ren/.config], files count:[1102]
-[09:36:15.339][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/ren/.config], files count:[1102]
-[09:36:15.343][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/ren/.config], files count:[1102]
-[09:36:15.491][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [<fallback>] finished, takes [0.163] sec.
-[09:36:15.491][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/ren/.config] finished, takes [0.151] sec.
-[09:36:19.252][info] [#0:script/provider/provider.lua:167]: Server shutdown.
-[09:36:19.266][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/ren/.config], files count:[1102]
-[09:36:19.279][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/ren/.config], files count:[1102]
-[09:36:19.292][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/ren/.config], files count:[1102]
-[09:36:19.293][info] [#0:script/provider/provider.lua:160]: Server exited.
+[14:29:03.492][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[14:29:03.494][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[14:29:03.566][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/ren/.config] finished, takes [0.071] sec.
+[14:29:03.567][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [<fallback>], files count:[1112]
+[14:29:03.606][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [<fallback>] finished, takes [0.039] sec.
+[14:38:56.314][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 273.080 MB
+        # 00 : 266.785 MB
+        # 01 : 0.689 MB
+        # 02 : 2.459 MB
+        # 03 : 0.689 MB
+        # 04 : 2.459 MB
+    --------------- Coroutine ---------------
+        Total:     1131
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1131
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[14:48:56.470][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 273.709 MB
+        # 00 : 267.415 MB
+        # 01 : 0.689 MB
+        # 02 : 2.459 MB
+        # 03 : 0.689 MB
+        # 04 : 2.459 MB
+    --------------- Coroutine ---------------
+        Total:     1131
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1131
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[14:58:56.629][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 274.340 MB
+        # 00 : 268.045 MB
+        # 01 : 0.689 MB
+        # 02 : 2.459 MB
+        # 03 : 0.689 MB
+        # 04 : 2.459 MB
+    --------------- Coroutine ---------------
+        Total:     1131
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1131
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[15:08:56.787][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 274.971 MB
+        # 00 : 268.676 MB
+        # 01 : 0.689 MB
+        # 02 : 2.459 MB
+        # 03 : 0.689 MB
+        # 04 : 2.459 MB
+    --------------- Coroutine ---------------
+        Total:     1131
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1131
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[15:18:56.937][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 275.600 MB
+        # 00 : 269.305 MB
+        # 01 : 0.689 MB
+        # 02 : 2.459 MB
+        # 03 : 0.689 MB
+        # 04 : 2.459 MB
+    --------------- Coroutine ---------------
+        Total:     1131
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1131
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[15:28:57.088][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 276.230 MB
+        # 00 : 269.936 MB
+        # 01 : 0.689 MB
+        # 02 : 2.459 MB
+        # 03 : 0.689 MB
+        # 04 : 2.459 MB
+    --------------- Coroutine ---------------
+        Total:     1131
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1131
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[15:38:57.230][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 276.861 MB
+        # 00 : 270.566 MB
+        # 01 : 0.689 MB
+        # 02 : 2.459 MB
+        # 03 : 0.689 MB
+        # 04 : 2.459 MB
+    --------------- Coroutine ---------------
+        Total:     1131
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1131
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[15:48:57.377][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 277.490 MB
+        # 00 : 271.195 MB
+        # 01 : 0.689 MB
+        # 02 : 2.459 MB
+        # 03 : 0.689 MB
+        # 04 : 2.459 MB
+    --------------- Coroutine ---------------
+        Total:     1131
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1131
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[15:58:57.526][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 278.121 MB
+        # 00 : 271.826 MB
+        # 01 : 0.689 MB
+        # 02 : 2.459 MB
+        # 03 : 0.689 MB
+        # 04 : 2.459 MB
+    --------------- Coroutine ---------------
+        Total:     1131
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1131
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[16:07:48.664][info] [#0:script/provider/provider.lua:167]: Server shutdown.
+[16:07:48.665][warn] [#0:script/pub/report.lua:25]: Load proto error:	Disconnected!
